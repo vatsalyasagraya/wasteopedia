@@ -1,0 +1,48 @@
+.about{
+    padding: 5rem 0;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+ 
+.body{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+/*
+.body ::before{
+        content: '';
+        background-image: url(/src/images/img1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 0.45;
+} */
+
+/* .body{
+    align-items: right;
+
+} */
+.photo{
+    width: 50%;
+    height: 50%;
+    padding: 2%;
+}
+.text {
+    /* box-shadow: 0 5px 15px rgba(0, 0, 0, 0.09); */
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 30px;
+    font-weight: 200;
+    /* height: auto; */
+}

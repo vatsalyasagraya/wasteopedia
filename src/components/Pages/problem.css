@@ -1,0 +1,39 @@
+.problem{
+    padding: 5rem 0;
+    background-color: rgb(244, 244, 244);
+}
+.box{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    padding: 80px 10px;
+    /* margin: 10px; */
+    /* box-shadow: 0 5px 15px rgba(0, 0, 0,0.09); */
+    /* background-color: #f2efef; */
+    margin: 5px 15px;
+}
+.ind{
+    width: 55%;
+    height: 55% ;
+}
+.box1{
+    width: 40%;
+    padding-left: 60px;
+}
+.box1 h1{
+    font-size: 2rem;
+    font-weight: 100;
+}
+.box1 b{
+    color: #4DA943;
+}
+.main{
+    margin-bottom: 40px;
+    /* padding-left: 40px; */
+}
+.para
+{
+    color: gray;
+    font-size: 1rem;
+    font-weight: 300;
+}
