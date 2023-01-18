@@ -14,10 +14,10 @@ export const Solution = () => {
             </div>
         </div>
         <div className="button">
-        <div class="wrapper">
+        <div className="wrapper">
           <a href="/"><span>Hover Me!</span></a>
         </div>
-        <div class="wrapper">
+        <div className="wrapper">
           <a href="/"><span>Hover Me!</span></a>
         </div>
         </div>

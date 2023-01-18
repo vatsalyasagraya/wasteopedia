@@ -5,10 +5,10 @@ export const Contact = () => {
   return (
     <div id="Contact" className="contact">
       <a href="/" className="btn">Contact Us</a>
-      <div class="footer">
-        <p class="p1">Copyright © 2023</p>
-        <a href="/" class="p2">linkedin</a>
-        <a href="/" class="p3">Mail</a>
+      <div className="footer">
+        <p className="p1">Copyright © 2023</p>
+        <a href="/" className="p2">linkedin</a>
+        <a href="/" className="p3">Mail</a>
       </div>
     </div>
   );
