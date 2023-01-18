@@ -7,9 +7,7 @@
     align-items: center; 
     justify-content: space-between;
     padding: 80px 10px;
-    /* margin: 10px; */
-    /* box-shadow: 0 5px 15px rgba(0, 0, 0,0.09); */
-    /* background-color: #f2efef; */
+    
     margin: 5px 15px;
 }
 .ind{
@@ -20,9 +18,10 @@
     width: 40%;
     padding-left: 60px;
 }
-.box1 h1{
+.box1 span{
     font-size: 2rem;
     font-weight: 100;
+    color: black;
 }
 .box1 b{
     color: #4DA943;
@@ -33,7 +32,66 @@
 }
 .para
 {
-    color: gray;
+    color: rgb(86, 86, 86);
     font-size: 1rem;
     font-weight: 300;
+}
+
+@media screen and (max-width: 980px) {
+    h1{ 
+        padding-top: 4rem;
+        font-size: 4rem;
+        font-weight: 600;
+    }   
+    hr{
+        background-color: #4DA943;
+        width: 10%;
+        height: 0.5rem;
+        border-radius: 2rem;
+        position: absolute;
+        left: 45%;
+        margin: 1rem 0;
+    }  
+    .problem{
+        height: 60vh;
+        display: block;
+        align-items: center;
+    }
+    .box{
+        display: block;
+    }
+    .ind{
+        width: 0%;
+        height: 0;
+        padding: 0%;
+        margin: 0;
+        visibility: hidden;
+    }
+
+    .box1 span{
+        font-size: 3.5rem;
+        font-weight: 100;
+        width: 80%;
+        text-align: left;
+        font-weight: 300;
+        color: black;
+    }
+    .box1 b{
+        color: #4DA943;
+    }
+    .main{
+        margin-bottom: 40px;
+    }
+    .para
+    {
+        color: gray;
+        width: 80%;
+        font-size: 2.5rem;
+        text-align: left;
+        font-weight: 200;
+        display: block;
+        position: absolute;
+        left: 10%;
+        /* top: 20% */
+    }
 }

@@ -6,6 +6,7 @@ export const Solution = () => {
   return (
     <div id="Solution" className="solution">
       <h1>Solution</h1>
+      <hr/>
       <div className='first'>
             <img src={img3} alt="nothin" className="photo-sol"/>
             <div className="text-sol">
