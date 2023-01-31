@@ -15,7 +15,7 @@ export const Home = () => {
       <div>
         <div className="grad1"></div>
         <img className="image" src={ic1} alt="1" />
-        <p className="para1">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p className="para1">Let’s start saving food!</p>
           
       </div>
       <div>

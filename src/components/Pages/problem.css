@@ -38,6 +38,10 @@
 }
 
 @media screen and (max-width: 980px) {
+    .problem{
+        padding: 5rem 0 5rem 0;
+        background-color: rgb(244, 244, 244);
+    }
     h1{ 
         padding-top: 4rem;
         font-size: 4rem;

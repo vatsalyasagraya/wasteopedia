@@ -12,7 +12,7 @@ export const Problem = () => {
             <div className="box1">
                 
                 <p className="para"><span className="main">The economic loss of food waste costs India <b>$12 Billion.</b></span>
-                <br/><br/>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, odit est doloribus eligendi omnis eum facere deserunt beatae vitae vel? Modi ullam quibusdam totam! Maxime corporis eaque, expedita quae beatae reprehenderit? Consectetur labore maiores necessitatibus  quibusdam velit sunt molestiae iure nam recusandae vero corrupti dicta alias, molestias, voluptates quae eos!</p>
+                <br/><br/>If we all stop wasting edible food, it would be the equivalent of taking one in four cars off the road. Think about the kind of impact we want to leave before leaving this planet. A small change in habit of saving food can save our future generations, environment, and our money.</p>
             </div>
 
             <div className="badi">

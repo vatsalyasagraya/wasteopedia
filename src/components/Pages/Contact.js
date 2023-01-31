@@ -4,11 +4,11 @@ import "./contact.css"
 export const Contact = () => {
   return (
     <div id="Contact" className="contact">
-      <a href="/" className="btn">Contact Us</a>
+      <a href="mailto:kuldeep.er@gmail.com?body=Write%20your%20query%20here..."  target="_blank" className="btn">Contact Us</a>
       <div className="footer">
         <p className="p1">Copyright © 2023</p>
         <a href="/" className="p2">linkedin</a>
-        <a href="/" className="p3">Mail</a>
+        <a href="mailto:kuldeep.er@gmail.com"  target="_blank" className="p3">Mail: kuldeep.er@gmail.com</a>
       </div>
     </div>
   );

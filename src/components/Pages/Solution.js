@@ -10,7 +10,7 @@ export const Solution = () => {
       <div className='first'>
             <img src={img3} alt="nothin" className="photo-sol"/>
             <div className="text-sol">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic voluptatum, ipsam aliquam neque odio dolorem fugiat sit ut maiores necessitatibus deleniti excepturi rem pariatur magni eos possimus voluptas provident, dolores facilis natus. Laboriosam dicta minus hic adipisci laborum recusandae dolor.</p>
+                <p>Are you a business with surplus food? Join us to cut your food waste - all while finding new customers and saving sunk costs. We want India to think differently about throwing food.</p>
             </div>
         </div>
         <div className="button">

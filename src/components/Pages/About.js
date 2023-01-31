@@ -8,7 +8,7 @@ export const About = () => {
       <hr/>
       <div className='body'>
         <img src={img1} alt="noting" className='photo'/>
-        <p className='text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsam quos delectullam voluptatum facilis sunt, corrupti nihil beatae tenetur voluptatibus magnam omnis, earum velit voluptatem ad illum ex molestiae! Necessitatibus pariatur veritatautem quo facere nam nostrum beatae! Lorem ipsum dolor sit amet, consectetur adipisicielit. Eligendi commodi minima iste pariatur! Provident repellat suscipit maxime itaqtenetur explicabo? </p>
+        <p className='text'>Every day, delicious fresh food goes to waste at restaurants, cafes, hotels, supermarkets, shops, and manufacturers just because it hasn’t sold in time. Our mission is to let customers buy fresh food at a great price -directly from businesses.</p>
       </div>
     
     </div>
