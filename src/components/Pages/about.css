@@ -26,9 +26,10 @@ hr{
 }
 
 .photo{
-    width: 80%;
-    height: 70%;
+    width: 50%;
+    height: 80%;
     padding: 4%;
+    border-radius: 100%;
 }
 .text {
     width: 70%;
@@ -58,10 +59,11 @@ hr{
         /* position: relative; */
     }
     .photo{
-        width: 72%;
+        width: 70%;
         height: 30vh;
         padding: 2%;
-        margin: 8rem auto 4rem auto;
+        margin: 8rem auto 4rem auto;        
+        border-radius: 100%;
     }
     .text {
         width: 80%;
