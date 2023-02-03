@@ -39,7 +39,7 @@
 
 @media screen and (max-width: 980px) {
     .problem{
-        padding: 5rem 0 5rem 0;
+        padding: 5rem 0 0rem 0;
         background-color: rgb(244, 244, 244);
     }
     h1{ 
@@ -57,7 +57,7 @@
         margin: 1rem 0;
     }  
     .problem{
-        height: 60vh;
+        height: 55vh;
         display: block;
         align-items: center;
     }
