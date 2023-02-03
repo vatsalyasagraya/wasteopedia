@@ -15,7 +15,7 @@ function NavBar() {
       <nav className="navbar">
         <div className="nav-container">
           <NavLink exact to="/home"  className="nav-logo" onClick={() => scrollTo("Home")}>
-            Waste-O-Pedia
+            SAALVE
           </NavLink>
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
