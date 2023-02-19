@@ -23,9 +23,10 @@ hr{
     position: relative;
 }
 .photo-sol{
-    width: 45%;
-    height: 45%;
-    padding-left: 1%;
+  width: 28%;
+  height: 70%;
+  padding: 6%;
+  border-radius: 100%;
 }
 .text-sol {
     width: 90%;
@@ -107,8 +108,8 @@ hr{
         position: relative;
     }
     .photo-sol{
-        width: 50%;
-        height: 20vh;
+        width: 60%;
+        height: 30vh;
         padding: 2%;
         margin: 8rem auto 4rem auto;
     }

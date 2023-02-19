@@ -62,7 +62,7 @@
     font-size: 1rem;   
     color: #4DA943;
     position: relative;
-    left: 25%;
+    left: 20%;
     text-decoration: none;
   }
   .p3{
@@ -128,22 +128,22 @@
     .p1{
       font-family: 'Montserrat', sans-serif;
       font-weight: 500;
-      font-size: 1.5rem;    
+      font-size: 1.35rem;    
       color: rgb(109, 109, 109);
     }
     .p2{
       font-family: 'Montserrat', sans-serif;
       font-weight: 500;
-      font-size: 1.5rem;   
+      font-size: 1.35rem;   
       color: #4DA943;
       position: relative;
-      left: 5%;
+      left: 3%;
       text-decoration: none;
     }
     .p3{
       font-family: 'Montserrat', sans-serif;
       font-weight: 500;
-      font-size: 1.5rem;    
+      font-size: 1.35rem;    
       color: #4DA943;
       text-decoration: none;
     }

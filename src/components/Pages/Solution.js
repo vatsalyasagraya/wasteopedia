@@ -1,6 +1,6 @@
 import React from "react";
 import "./solution.css"
-import img3 from './images/img3.png'
+import img3 from './images/img1.png'
 
 export const Solution = () => {
   return (
@@ -15,10 +15,10 @@ export const Solution = () => {
         </div>
         <div className="button">
         <div className="wrapper">
-          <a href="/"><span>For Businesses</span></a>
+          <a href="https://forms.gle/yRf1fqdjBoFUqDVn9" target="_blank" rel="noopener noreferrer"><span>For Businesses</span></a>
         </div>
         <div className="wrapper">
-          <a href="/"><span>For Customers</span></a>
+          <a href="https://forms.gle/uScThYtoPdJEig3EA" target="_blank" rel="noopener noreferrer"><span>For Customers</span></a>
         </div>
         </div>
     </div>

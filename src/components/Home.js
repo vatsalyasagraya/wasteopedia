@@ -15,7 +15,7 @@ export const Home = () => {
       <div>
         <div className="grad1"></div>
         <img className="image" src={ic3} alt="1" />
-        <p className="para1">Let’s start saving food!</p>
+        <p className="para1">Let’s Save Food</p>
           
       </div>
       <div>

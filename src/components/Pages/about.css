@@ -26,15 +26,16 @@ hr{
 }
 
 .photo{
-    width: 50%;
-    height: 80%;
-    padding: 4%;
+    width: 45%;
+    height: 75%;
+    padding: 6%;
     border-radius: 100%;
 }
 .text {
     width: 70%;
     font-size: 1.5rem;
     padding: 35px;
+    padding-left: 50px;
     font-weight: 400;
 }
 @media screen and (max-width: 980px) {
@@ -59,11 +60,10 @@ hr{
         /* position: relative; */
     }
     .photo{
-        width: 70%;
+        width:60%;
         height: 30vh;
         padding: 2%;
-        margin: 8rem auto 4rem auto;        
-        border-radius: 100%;
+        margin: 8rem auto 4rem auto;      
     }
     .text {
         width: 80%;
