@@ -15,8 +15,11 @@ export const Home = () => {
       <div>
         <div className="grad1"></div>
         <img className="image" src={ic3} alt="1" />
-        <p className="para1">Let’s Save Food</p>
-          
+        <p className="para1">Let’s Save Food<br/>
+          <p className="stay"><br/><br/>Stay Tuned</p>
+          <p className="new">Our New Website Is<br/><br/></p>
+          <p className="comingsoon">COMING SOON</p>    
+        </p>      
       </div>
       <div>
           <div className="grad2"></div>
