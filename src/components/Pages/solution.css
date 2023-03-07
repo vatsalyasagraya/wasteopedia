@@ -87,6 +87,11 @@ hr{
   }
 
   @media screen and (max-width: 980px) {
+    .solution{
+      padding: 5rem 0 0 0;
+      background-color: rgb(255, 255, 255);
+      height: 85vh;
+  }
     h1{ 
         padding-top: 4rem;
         font-size: 4rem;
