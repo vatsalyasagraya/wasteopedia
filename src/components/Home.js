@@ -22,14 +22,14 @@ export const Home = () => {
         </p>      
       </div>
       <div>
-          <div className="grad2"></div>
+          <div className="grad1"></div>
           <img src={ic2} className="image" alt="1"/>
           <p className="para2"> Cutting global food waste by just a quarter will save enough food for everyone on planet.</p>
       </div>
       <div>
       <div className="grad1"></div>
         <img className="image" src={ic1} alt="1" />
-        <p className="para3">Let us together reduce the amount of food waste generated.</p>
+        <p className="para2">Let us together reduce the amount of food waste generated.</p>
       </div>
     </Carousel>
     </div>
